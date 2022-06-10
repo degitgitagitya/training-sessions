@@ -12,8 +12,6 @@ export function Todo() {
     id: profile,
   });
 
-  console.log(profile);
-
   return (
     <StyledTodo>
       <h1>Welcome to profile number {profile}!</h1>
