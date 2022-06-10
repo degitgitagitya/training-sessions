@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "components": "libs/components",
+    "first-session": "apps/first-session",
+    "first-session-e2e": "apps/first-session-e2e",
+    "hooks": "libs/hooks"
+  }
+}
