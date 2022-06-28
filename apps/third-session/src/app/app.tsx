@@ -14,6 +14,11 @@ const StyledApp = styled.div`
 // + On demand revalidation
 // + Redux is dead (state management is dead :D)
 
+// OPTIMISTIC UPDATE
+// + UPDATE UI FIRST
+// + THEN UPDATE DATA
+// + IF FAILED, FALLBACK TO PREVIOUS STATE
+
 export function App() {
   return (
     <StyledApp>
