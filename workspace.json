@@ -7,6 +7,8 @@
     "first-session-e2e": "apps/first-session-e2e",
     "hooks": "libs/hooks",
     "second-session": "apps/second-session",
-    "second-session-e2e": "apps/second-session-e2e"
+    "second-session-e2e": "apps/second-session-e2e",
+    "third-session": "apps/third-session",
+    "third-session-e2e": "apps/third-session-e2e"
   }
 }
