@@ -5,6 +5,8 @@
     "components": "libs/components",
     "first-session": "apps/first-session",
     "first-session-e2e": "apps/first-session-e2e",
+    "fourth-session": "apps/fourth-session",
+    "fourth-session-e2e": "apps/fourth-session-e2e",
     "hooks": "libs/hooks",
     "second-session": "apps/second-session",
     "second-session-e2e": "apps/second-session-e2e",
